@@ -145,4 +145,16 @@
       "api": " https://subocj.com/api.php/provide/vod",
       "name": "速播资源"
   }
+     "caoliu18": {
+      "api": " https://www.caoliuzyw.com/api.php/provide/vod",
+      "name": "草溜18资源"
+  }
+     "baidu": {
+      "api": " https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度云资源"
+  }
+      "pingguo": {
+      "api": " https://ckzy.me/api.php/provide/vod",
+      "name": "苹果资源"
+  }
 }
